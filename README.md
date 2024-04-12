@@ -1,4 +1,5 @@
-<p align="center"><strong><h1>Trinath Mahato.</h1></strong></p>
+<h1 align="center"><strong>Trinath Mahato</strong></h1>
+
 
 
 <!--
