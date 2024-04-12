@@ -1,4 +1,4 @@
-![68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667](https://github.com/kakarot108/kakarot108/assets/94223948/c01af611-d07f-45f9-bdf0-e8006d384cba)![68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c655f7363686f6c61722e737667](https://github.com/kakarot108/kakarot108/assets/94223948/8515cdfe-94b0-4307-b5ad-46fc1b015664)<h1 align="center"><strong>Trinath Mahato</strong></h1>
+<h1 align="center"><strong>Trinath Mahato</strong></h1>
 <h2 align="center"><strong>Environmental Researcher 👨‍🔬🎓</strong></h2>
 <h2 align="center"><strong>RS & GIS 🛰️ | Land Use Land Cover 🌆 | Solving Issues Related Land & Vegetation 🌾🌿🌄 | Climate Change ☔☀️🌊</strong></h2>
 
@@ -10,7 +10,8 @@ Dedicated, resolute, and hardworking, Mahato is eager to push the existing bound
 
 For more information please see my profiles
 
-[![Google Scholar](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png)](https://scholar.google.com/citations?user=j8fa-oMAAAAJ&hl=en&authuser=1)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png" width="200" alt="Google Scholar">](https://scholar.google.com/citations?user=j8fa-oMAAAAJ&hl=en&authuser=1)
+
 
 
 <!--
