@@ -1,7 +1,4 @@
-### Hi there 👋
-
-                                                                      # Trinath Mahato
-<p align="center">This text will appear centered.</p>
+<p align="center"> # Trinath Mahato.</p>
 
 <!--
 **kakarot108/kakarot108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
