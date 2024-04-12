@@ -10,7 +10,7 @@ Dedicated, resolute, and hardworking, Mahato is eager to push the existing bound
 
 For more information please see my profiles
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png" width="50" alt="Google Scholar">](https://scholar.google.com/citations?user=j8fa-oMAAAAJ&hl=en&authuser=1) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png" width="50" alt="Google Scholar">](https://scholar.google.com/citations?user=j8fa-oMAAAAJ&hl=en&authuser=1)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png" width="50" alt="Google Scholar">](https://scholar.google.com/citations?user=j8fa-oMAAAAJ&hl=en&authuser=1) [<img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" width="50" alt="linkedin">](https://www.linkedin.com/in/tm112?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVsqd9mXpQFexW%2FXKYiwmEw%3D%3D)
 
 
 
