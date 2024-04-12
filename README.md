@@ -29,7 +29,7 @@ For more information please see my profiles
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60" alt="javascript">](https://www.javascript.com/)
 [<img src="https://www.esri.in/content/dam/distributor-share/esri-se/icons/product-logos/ArcGIS-Pro.png" width="60" alt="arcgis">](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" width="60" alt="qgis">](https://qgis.org/en/site/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mapbox_logo_2017.svg/1024px-Mapbox_logo_2017.svg.png" width="60" alt="mapbox">](https://www.mapbox.com/)
+[<img src="https://wpmaps.com/wp-content/themes/wpm/images/bk/mapbox.png" width="60" alt="mapbox">](https://www.mapbox.com/)
 [<img src="https://naturalcapitalproject.stanford.edu/sites/g/files/sbiybj25256/files/styles/medium/public/media/image/invest-logo-registeredtm_202305_150dpi_0.png?itok=GuL1OEAj" width="60" alt="invest">](https://naturalcapitalproject.stanford.edu/)
 </p>
 
