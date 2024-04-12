@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Trinath Mahato</strong></h1>
-
-
+<h1 align="center"><strong>Environmental Researcher 👨‍🔬🎓</strong></h1>
+<h1 align="center"><strong>Land Use Land Cover 🌆 | Solving Issues Related Land & Vegetation 🌾🌿🌄 | Climate Change ☔☀️🌊 |RS & GIS 🛰️</strong></h2>
 
 <!--
 **kakarot108/kakarot108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
