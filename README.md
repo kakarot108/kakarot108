@@ -61,4 +61,8 @@ Feel free to connect with me for collaborative opportunities, research discussio
 
 For more information, please see my profiles:
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png" width="40" alt="Google Scholar">](https://scholar.google.com/citations?user=j8fa-oMAAAAJ&hl=en&authuser=1) [<img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" width="40" alt="linkedin">](https://www.linkedin.com/in/tm112?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVsqd9mXpQFexW%2FXKYiwmEw%3D%3D) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1024px-ResearchGate_icon_SVG.svg.png" width="40
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png" width="40" alt="Google Scholar">](https://scholar.google.com/citations?user=j8fa-oMAAAAJ&hl=en&authuser=1)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/768px-Linkedin.svg.png" width="40" alt="LinkedIn">](https://www.linkedin.com/in/tm112?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVsqd9mXpQFexW%2FXKYiwmEw%3D%3D)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1024px-ResearchGate_icon_SVG.svg.png" width="40" alt="ResearchGate">](https://www.researchgate.net/profile/Trinath-Mahato)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1024px-ORCID_iD.svg.png" width="40" alt="ORCID">](https://orcid.org/0000-0002-6672-9107)
+[<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-round-icon.png" width="40" alt="Medium">](https://medium.com/@trinath27071988)
