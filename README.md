@@ -8,16 +8,41 @@ He holds a Master of Science degree in Geoinformatics from the [Central Universi
 
 Dedicated, resolute, and hardworking, Mahato is eager to push the existing boundaries of knowledge in Geo-informatics. He has a profound interest in learning from current experiments and innovations in the field and leverages his skills for exceptional and better research outcomes.
 
-For more information please see my profiles
+---
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png" width="40" alt="Google Scholar">](https://scholar.google.com/citations?user=j8fa-oMAAAAJ&hl=en&authuser=1) [<img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" width="40" alt="linkedin">](https://www.linkedin.com/in/tm112?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVsqd9mXpQFexW%2FXKYiwmEw%3D%3D) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1024px-ResearchGate_icon_SVG.svg.png" width="40" alt="researchgate">](https://www.researchgate.net/profile/Trinath-Mahato) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1024px-ORCID_iD.svg.png" width="40" alt="orcid">](https://orcid.org/0000-0002-6672-9107) [<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/medium-round-icon.png" width="40" alt="medium">](https://medium.com/@trinath27071988)
+### Current Research:
+1. **FRP (Fire Radiative Power)** in relation with Greening or Browning with Vegetation using remote sensing indices like Normalized Difference Vegetation Index (NDVI) globally, in collaboration with [Somnath Bar](https://sites.google.com/view/somnath-bar/home).
 
-### My Tools
-* GIS Softwares: [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/latest/get-started/get-started.htm) | [QGIS](https://www.qgis.org/en/site/)
-* Cloud Computing & Big Data: [Google Earth Engine](https://earthengine.google.com) | [Mapbox](https://www.mapbox.com)
-* Geospatial & Big Data Analysis: [Python](https://www.python.org) | [Jupyter Notebook](https://jupyter.org) | [IDE: VSCode](https://code.visualstudio.com) | [R Studio](https://posit.co/download/rstudio-desktop/)
-* Statistics & Visualizations: [R Studio](https://posit.co/download/rstudio-desktop/) | [Excel](https://www.microsoft.com/en-in/microsoft-365/excel)
-* Environmental Modelling/Prediction: [InVEST](https://naturalcapitalproject.stanford.edu/software/invest)
+2. Assessing the **long-term responsiveness of the Kernel Normalized Difference Vegetation Index (KNDVI)** to climatic factors such as precipitation, soil moisture, evapotranspiration, and temperature in the context of Northeast India. This involves using advanced multiscale time–frequency decomposition techniques to understand spatiotemporal dynamics and vegetation-climate interactions.
+
+3. Investigating **long-term trends of desertification and land degradation** in the Central Region of India, focusing on identifying the key drivers contributing to desertification by leveraging advanced machine learning techniques on the Google Earth Engine (GEE) platform.
+
+4. Studying **forest degradation in the Central Region of India**, analyzing its underlying causes with a specific focus on forest fires as a major contributing factor, using machine learning approaches on the Google Earth Engine (GEE) platform.
+
+---
+
+### I’m currently learning:
+- Advanced Machine Learning Techniques for Geo-Spatial Analysis
+- Time-Series Analysis in Climate Data
+- Advanced Statistical Methods for Environmental Modelling
+- Ecosystem Services Valuation using [InVEST](https://naturalcapitalproject.stanford.edu/software/invest)
+
+---
+
+### I’m looking to collaborate with:
+- **Ph.D. positions** in **land degradation**, **vegetation dynamics**, or **climate change impacts**, where I can further my research expertise and contribute to academic advancements.
+- **Organizations** or institutions working on innovative projects in **remote sensing**, **machine learning**, and **geo-informatics** to develop data-driven solutions for environmental challenges.
+
+Feel free to connect with me for collaborative opportunities, research discussions, or potential positions!
+
+---
+
+### My Tools:
+* **GIS Softwares:** [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/latest/get-started/get-started.htm) | [QGIS](https://www.qgis.org/en/site/)
+* **Cloud Computing & Big Data:** [Google Earth Engine](https://earthengine.google.com) | [Mapbox](https://www.mapbox.com)
+* **Geospatial & Big Data Analysis:** [Python](https://www.python.org) | [Jupyter Notebook](https://jupyter.org) | [IDE: VSCode](https://code.visualstudio.com) | [R Studio](https://posit.co/download/rstudio-desktop/)
+* **Statistics & Visualizations:** [R Studio](https://posit.co/download/rstudio-desktop/) | [Excel](https://www.microsoft.com/en-in/microsoft-365/excel)
+* **Environmental Modelling/Prediction:** [InVEST](https://naturalcapitalproject.stanford.edu/software/invest)
 
 <p align="center">
     <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="60" alt="python"></a>
@@ -32,18 +57,8 @@ For more information please see my profiles
     <a href="https://naturalcapitalproject.stanford.edu/"><img src="https://naturalcapitalproject.stanford.edu/sites/g/files/sbiybj25256/files/styles/medium/public/media/image/invest-logo-registeredtm_202305_150dpi_0.png?itok=GuL1OEAj" width="60" alt="invest"></a>
 </p>
 
+---
 
-<!--
-**kakarot108/kakarot108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For more information, please see my profiles:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png" width="40" alt="Google Scholar">](https://scholar.google.com/citations?user=j8fa-oMAAAAJ&hl=en&authuser=1) [<img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" width="40" alt="linkedin">](https://www.linkedin.com/in/tm112?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVsqd9mXpQFexW%2FXKYiwmEw%3D%3D) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1024px-ResearchGate_icon_SVG.svg.png" width="40
