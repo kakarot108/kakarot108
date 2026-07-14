@@ -90,7 +90,7 @@ District-Level Sentinel-5P Air Quality Monitoring Platform providing pollutant v
 
 ### 🔥 Global Fire Visualiser
 
-[![Global Fire Visualiser](<img width="3456" height="1938" alt="image" src="https://github.com/user-attachments/assets/e58cdbb8-2301-4884-8222-db04450e4795" />
+[![Global Fire Visualiser](https://github.com/user-attachments/assets/e14f58be-ea9b-4735-8912-b630cb7ad232
 )](https://trinathm108.projects.earthengine.app/view/global-fire-visualiser)
 
 Interactive visualization of global fire activity using satellite observations.
