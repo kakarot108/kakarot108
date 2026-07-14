@@ -59,6 +59,51 @@ Feel free to connect with me for collaborative opportunities, research discussio
 
 ---
 
+## 🌐 Interactive Dashboards
+
+### 🌍 GHG India Dashboard (JRC EDGAR v8.0)
+
+[![GHG India Dashboard](<img width="3456" height="1938" alt="image" src="https://github.com/user-attachments/assets/5e56857f-d504-4606-909f-afd29fcf91c3" />
+)](https://india-ghg-dashboard.web.app/)
+
+National greenhouse gas emissions visualization and analytics platform based on the **JRC EDGAR v8.0** dataset.
+
+---
+
+### 🇮🇳 India Environmental Dashboard
+
+[![India Environmental Dashboard](<img width="3456" height="1938" alt="image" src="https://github.com/user-attachments/assets/0be674ee-8b75-417d-b36f-637cd41e5e1e" />
+)](https://enclergy.projects.earthengine.app/view/india-environmental-dashboard)
+
+Comprehensive environmental monitoring platform for India using Google Earth Engine.
+
+---
+
+### 🛰️ AeroIntel India
+
+[![AeroIntel India](<img width="3456" height="1938" alt="image" src="https://github.com/user-attachments/assets/dac6066f-b195-4503-80e0-57658f1fc470" />
+)](https://enclergy.users.earthengine.app/view/aerointel-india)
+
+District-Level Sentinel-5P Air Quality Monitoring Platform providing pollutant visualization and analysis.
+
+---
+
+### 🔥 Global Fire Visualiser
+
+[![Global Fire Visualiser](<img width="3456" height="1938" alt="image" src="https://github.com/user-attachments/assets/e58cdbb8-2301-4884-8222-db04450e4795" />
+)](https://trinathm108.projects.earthengine.app/view/global-fire-visualiser)
+
+Interactive visualization of global fire activity using satellite observations.
+
+---
+
+### 💧 Global Surface Water Analyser
+
+[![Global Surface Water Analyser](<img width="3456" height="1938" alt="image" src="https://github.com/user-attachments/assets/325696b2-47b2-4aa9-a6f4-e71c80b5f547" />
+)](https://trinathm108.projects.earthengine.app/view/globalsurfacewater)
+
+Global surface water dynamics and long-term water change analysis platform.
+
 For more information, please see my profiles:
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png" width="40" alt="Google Scholar">](https://scholar.google.com/citations?user=j8fa-oMAAAAJ&hl=en&authuser=1)
