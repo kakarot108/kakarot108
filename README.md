@@ -48,11 +48,11 @@ Feel free to connect with me for collaborative opportunities, research discussio
     <a href="https://www.python.org/"><img src="https://github.com/user-attachments/assets/5f28f827-5e0b-4a28-883c-2e49a2ac3ca8" width="60" alt="python"></a>
     <a href="https://jupyter.org/"><img src="https://github.com/user-attachments/assets/abea69ca-f19d-496f-b598-2ba1e143e368" width="60" alt="jupyter notebook"></a>
     <a href="https://code.visualstudio.com/"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="60" alt="vs code"></a>
-    <a href="https://www.r-project.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" width="60" alt="R"></a>
+    <a href="https://www.r-project.org/"><img src="https://github.com/user-attachments/assets/ccbf2657-628e-407c-aa49-25b3a1446069" width="60" alt="R"></a>
     <a href="https://earthengine.google.com/"><img src="https://github.com/user-attachments/assets/4a27d073-6b58-4c14-828c-141967afddaf" width="60" alt="GEE"></a>
     <a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60" alt="javascript"></a>
     <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview"><img src="https://www.esri.in/content/dam/distributor-share/esri-se/icons/product-logos/ArcGIS-Pro.png" width="60" alt="arcgis"></a>
-    <a href="https://qgis.org/en/site/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" width="60" alt="qgis"></a>
+    <a href="https://qgis.org/en/site/"><img src="https://github.com/user-attachments/assets/7e4d2c70-d4a3-4df0-b32d-717d97245275" width="60" alt="qgis"></a>
     <a href="https://www.mapbox.com/"><img src="https://wpmaps.com/wp-content/themes/wpm/images/bk/mapbox.png" width="60" alt="mapbox"></a>
     <a href="https://naturalcapitalproject.stanford.edu/"><img src="https://naturalcapitalproject.stanford.edu/sites/g/files/sbiybj25256/files/styles/medium/public/media/image/invest-logo-registeredtm_202305_150dpi_0.png?itok=GuL1OEAj" width="60" alt="invest"></a>
 </p>
