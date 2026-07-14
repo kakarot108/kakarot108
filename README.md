@@ -63,7 +63,7 @@ Feel free to connect with me for collaborative opportunities, research discussio
 
 ### 🌍 GHG India Dashboard (JRC EDGAR v8.0)
 
-[![GHG India Dashboard](<img width="3456" height="1938" alt="image" src="https://github.com/user-attachments/assets/5e56857f-d504-4606-909f-afd29fcf91c3" />
+[![GHG India Dashboard](<img width="3456" height="1938" alt="Water" src="https://github.com/user-attachments/assets/7976b7e9-dd53-4de6-87bd-fc1728db4bd4" />
 )](https://india-ghg-dashboard.web.app/)
 
 National greenhouse gas emissions visualization and analytics platform based on the **JRC EDGAR v8.0** dataset.
