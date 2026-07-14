@@ -104,8 +104,8 @@ Global surface water dynamics and long-term water change analysis platform.
 
 For more information, please see my profiles:
 
-[<img src= "https://github.com/user-attachments/assets/958708b6-d523-4891-97ca-d029ce47c75e" width="40" alt="Google Scholar">](https://scholar.google.com/citations?user=j8fa-oMAAAAJ&hl=en&authuser=1)
-[<img src="https://github.com/user-attachments/assets/64372775-fb1d-4f4c-ae64-0967967189f8" width="40" alt="LinkedIn">](https://www.linkedin.com/in/tm112?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVsqd9mXpQFexW%2FXKYiwmEw%3D%3D)
-[<img src="https://github.com/user-attachments/assets/d8a41496-0700-4381-a4d5-c4b4654aaca9" width="40" alt="ResearchGate">](https://www.researchgate.net/profile/Trinath-Mahato)
-[<img src="https://github.com/user-attachments/assets/e4160176-1f3c-4fe6-8259-df2c917d26f3" width="40" alt="ORCID">](https://orcid.org/0000-0002-6672-9107)
-[<img src="https://github.com/user-attachments/assets/0ec04c8d-37da-48b8-9da8-7d84388ddd37" width="40" alt="Medium">](https://medium.com/@trinath27071988)
+[<img src= "https://github.com/user-attachments/assets/958708b6-d523-4891-97ca-d029ce47c75e" width="60" alt="Google Scholar">](https://scholar.google.com/citations?user=j8fa-oMAAAAJ&hl=en&authuser=1)
+[<img src="https://github.com/user-attachments/assets/64372775-fb1d-4f4c-ae64-0967967189f8" width="60" alt="LinkedIn">](https://www.linkedin.com/in/tm112?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVsqd9mXpQFexW%2FXKYiwmEw%3D%3D)
+[<img src="https://github.com/user-attachments/assets/d8a41496-0700-4381-a4d5-c4b4654aaca9" width="60" alt="ResearchGate">](https://www.researchgate.net/profile/Trinath-Mahato)
+[<img src="https://github.com/user-attachments/assets/e4160176-1f3c-4fe6-8259-df2c917d26f3" width="60" alt="ORCID">](https://orcid.org/0000-0002-6672-9107)
+[<img src="https://github.com/user-attachments/assets/0ec04c8d-37da-48b8-9da8-7d84388ddd37" width="60" alt="Medium">](https://medium.com/@trinath27071988)
