@@ -99,8 +99,10 @@ Interactive visualization of global fire activity using satellite observations.
 
 ### 💧 Global Surface Water Analyser
 
-[![Global Surface Water Analyser](<img width="3456" height="1938" alt="image" src="https://github.com/user-attachments/assets/325696b2-47b2-4aa9-a6f4-e71c80b5f547" />
+[![Global Surface Water Analyser](<img width="3456" height="1938" alt="Water" src="https://github.com/user-attachments/assets/3aa0417e-8274-4279-bf38-b987bf9aaf66" />
 )](https://trinathm108.projects.earthengine.app/view/globalsurfacewater)
+
+[![Global Surface Water Analyser](https://github.com/user-attachments/assets/3aa0417e-8274-4279-bf38-b987bf9aaf66)](https://trinathm108.projects.earthengine.app/view/globalsurfacewater)
 
 Global surface water dynamics and long-term water change analysis platform.
 
