@@ -45,7 +45,7 @@ Feel free to connect with me for collaborative opportunities, research discussio
 * **Environmental Modelling/Prediction:** [InVEST](https://naturalcapitalproject.stanford.edu/software/invest)
 
 <p align="center">
-    <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="60" alt="python"></a>
+    <a href="https://www.python.org/"><img src="https://github.com/user-attachments/assets/5f28f827-5e0b-4a28-883c-2e49a2ac3ca8" width="60" alt="python"></a>
     <a href="https://jupyter.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" width="60" alt="jupyter notebook"></a>
     <a href="https://code.visualstudio.com/"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="60" alt="vs code"></a>
     <a href="https://www.r-project.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" width="60" alt="R"></a>
