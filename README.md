@@ -63,7 +63,7 @@ Feel free to connect with me for collaborative opportunities, research discussio
 
 ### 🌍 GHG India Dashboard (JRC EDGAR v8.0)
 
-[![GHG India Dashboard](<img width="3456" height="1938" alt="Water" src="https://github.com/user-attachments/assets/7976b7e9-dd53-4de6-87bd-fc1728db4bd4" />
+[![GHG India Dashboard](https://github.com/user-attachments/assets/7976b7e9-dd53-4de6-87bd-fc1728db4bd4
 )](https://india-ghg-dashboard.web.app/)
 
 National greenhouse gas emissions visualization and analytics platform based on the **JRC EDGAR v8.0** dataset.
@@ -72,7 +72,7 @@ National greenhouse gas emissions visualization and analytics platform based on 
 
 ### 🇮🇳 India Environmental Dashboard
 
-[![India Environmental Dashboard](<img width="3456" height="1938" alt="image" src="https://github.com/user-attachments/assets/0be674ee-8b75-417d-b36f-637cd41e5e1e" />
+[![India Environmental Dashboard](https://github.com/user-attachments/assets/0be674ee-8b75-417d-b36f-637cd41e5e1e"
 )](https://enclergy.projects.earthengine.app/view/india-environmental-dashboard)
 
 Comprehensive environmental monitoring platform for India using Google Earth Engine.
@@ -81,7 +81,7 @@ Comprehensive environmental monitoring platform for India using Google Earth Eng
 
 ### 🛰️ AeroIntel India
 
-[![AeroIntel India](<img width="3456" height="1938" alt="image" src="https://github.com/user-attachments/assets/dac6066f-b195-4503-80e0-57658f1fc470" />
+[![AeroIntel India](https://github.com/user-attachments/assets/dac6066f-b195-4503-80e0-57658f1fc470
 )](https://enclergy.users.earthengine.app/view/aerointel-india)
 
 District-Level Sentinel-5P Air Quality Monitoring Platform providing pollutant visualization and analysis.
